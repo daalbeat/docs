@@ -1,19 +1,8 @@
-# Docusaurus 2
+<p align='center'>
+  <img src="https://luna.nyc3.cdn.digitaloceanspaces.com/daalbeat/DaalBeatLogo.png" width=450>
+  <h1 align='center'>DAALBEAT</h1>
+</p>
 
-This directory is a brief example of a [Docusaurus](https://v2.docusaurus.io) site that can be deployed to Vercel with zero configuration.
+<p align='center'>DAO for healthcare emergency fund.</p>
 
-## Deploy Your Own
-
-Deploy your own Docusaurus project with Vercel.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/docusaurus-2&template=docusaurus-2)
-
-_Live Example: https://docusaurus-2-template.vercel.app_
-
-### How We Created This Example
-
-To get started with Docusaurus on Vercel, you can use the [Docusaurus CLI](https://v2.docusaurus.io/docs/installation#scaffold-project-website) to initialize the project:
-
-```shell
-npx create-docusaurus@latest my-website classic
-```
+<p align='center'><a href="https://www.daalbeat.com">daalbeat.com</a></p>

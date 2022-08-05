@@ -12,7 +12,7 @@ const config = {
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
+  favicon: "img/daalbeat.png",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -52,7 +52,7 @@ const config = {
         title: "DaalBeat Labs",
         logo: {
           alt: "DaalBeat Labs Logo",
-          src: "img/logo.svg",
+          src: "img/daalbeat.png",
         },
         items: [
           {
@@ -69,10 +69,6 @@ const config = {
           {
             title: "Community",
             items: [
-              {
-                label: "Discord",
-                href: "#",
-              },
               {
                 label: "Twitter",
                 href: "https://twitter.com/daalbeat",

@@ -63,15 +63,19 @@ const config = {
           },
           {
             href: "https://app.daalbeat.com",
-            position: "left",
+            position: "right",
             label: "App",
             target: "_self",
           },
           {
             href: "https://daalbeat.com",
-            position: "left",
+            position: "right",
             label: "Website",
             target: "_self",
+          },
+          {
+            type: "search",
+            position: "right",
           },
         ],
       },

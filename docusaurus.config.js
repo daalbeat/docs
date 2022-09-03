@@ -7,7 +7,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "DaalBeat Labs",
-  tagline: "New Kind of Healthcare Emergency Funding on Blockchain.",
+  tagline: "New Kind of Medical Emergency Funding the on Blockchain.",
   url: "https://docs.daalbeat.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -49,7 +49,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "DaalBeat Labs",
+        title: "DaalBeat Labs (Alpha)",
         logo: {
           alt: "DaalBeat Labs Logo",
           src: "img/daalbeat.png",

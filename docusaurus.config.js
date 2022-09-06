@@ -62,9 +62,9 @@ const config = {
             label: "Docs",
           },
           {
-            href: "https://app.daalbeat.com",
+            href: "https://alpha.daalbeat.com",
             position: "right",
-            label: "App",
+            label: "Alpha App",
             target: "_self",
           },
           {
